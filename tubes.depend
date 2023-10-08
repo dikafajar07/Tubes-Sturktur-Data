@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1588077481 source:c:\users\user\documents\struktur dats\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	"keyword.h"
+	"paper.h"
+	"relasi_key_pap.h"
+
+1588084143 source:c:\users\user\documents\struktur dats\tubes\keyword.cpp
+	"keyword.h"
+
+1588084143 c:\users\user\documents\struktur dats\tubes\keyword.h
+	<iostream>
+
+1588084143 source:c:\users\user\documents\struktur dats\tubes\paper.cpp
+	"paper.h"
+
+1588084029 c:\users\user\documents\struktur dats\tubes\paper.h
+	<iostream>
+
+1588077473 c:\users\user\documents\struktur dats\tubes\relasi_key_pap.h
+	"paper.h"
+	"keyword.h"
+	<iostream>
+
+1588081049 source:c:\users\user\documents\struktur dats\tubes\relasi_key_pap.cpp
+	"relasi_key_pap.h"
+
